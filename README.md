@@ -95,6 +95,3 @@ Create a new pull request
 ## Acknowledgements
 Sorting Visualizer was inspired by other sorting algorithm visualization projects, such as SortDemon and AlgoExpert. Special thanks to the creators of these projects for their inspiration and guidance.
 
-
-## Feedback
-Any sort of feedback is greatly appreciated, please reach out to me at ishanshirodkar@gmail.com.

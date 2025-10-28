@@ -1,0 +1,16 @@
+h1 {
+    color: #fcba2a;
+    margin-left: 42%;
+    margin-right: 30%;
+    font-size: 40px;
+}
+.good{
+    display:flex;
+}
+.sorting{
+    color: #fcba2a;
+}
+
+.visualizer {
+    color: aqua;
+}

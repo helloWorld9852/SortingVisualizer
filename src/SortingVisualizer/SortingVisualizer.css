@@ -1,0 +1,20 @@
+.array-container {
+    position: absolute;
+    margin-left: 13%;
+    margin-top: 120px;
+}
+
+.array-bar {
+    width: 10px;
+    background-color: #fcba2a;
+    display: inline-block;
+    margin: 0 1px;
+}
+
+.buttons {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content: space-between;
+    border-radius: 5px;
+}
